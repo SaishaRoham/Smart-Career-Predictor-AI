@@ -1,5 +1,5 @@
 # Smart-Career-Predictor-AI
-I recently built a Smart Career Predictor web application that uses Machine Learning to recommend suitable career paths based on a user’s skills, interests, and academic background.
+Smart Career Predictor web application that uses Machine Learning to recommend suitable career paths based on a user’s skills, interests, and academic background.
 
 🔍 What this project does:
 
